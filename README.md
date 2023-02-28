@@ -20,7 +20,7 @@
 <br>
 
 - 💻 Working at Digital Future as a full-stack software engineer.
-- 👯 I’m looking to collaborate on ...
+- 🔥 I’m looking to challenge myself with projects that pushs me to my limits.
 - 📫 How to reach me: [**nebil.s@hotmailcom**](mailto:nebil.s@hotmailcom)
 - 📫 Checkout my work at  [portfolio.nebilsahin.com](https://portfolio.nebilsahin.com)
 - 👀 Fun facts:
